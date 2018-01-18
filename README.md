@@ -34,7 +34,7 @@ stable release versions of Dash Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Testing
+Testing.
 -------
 
 Testing and code review is the bottleneck for development; we get more pull
