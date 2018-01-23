@@ -9,7 +9,7 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between paradigm-cli and dashd)
+ * CBaseChainParams defines the base parameters (shared between paradigm-cli and paradigmd)
  * of a given instance of the Paradigm system.
  */
 class CBaseChainParams
