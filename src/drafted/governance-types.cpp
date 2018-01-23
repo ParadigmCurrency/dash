@@ -7,8 +7,8 @@ GovernanceObjectType GovernanceStringToType(std::string strType) {
     if(strType == "AllTypes") type = AllTypes;
     if(strType == "Error") type = Error;
     if(strType == "ValueOverride") type = ValueOverride;
-    if(strType == "DashNetwork") type = DashNetwork;
-    if(strType == "DashNetworkVariable") type = DashNetworkVariable;
+    if(strType == "ParadigmNetwork") type = ParadigmNetwork;
+    if(strType == "ParadigmNetworkVariable") type = ParadigmNetworkVariable;
     if(strType == "Category") type = Category;
     if(strType == "Group") type = Group;
     if(strType == "User") type = User;
